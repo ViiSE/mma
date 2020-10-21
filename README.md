@@ -1,2 +1,2 @@
-# mmi
-mmi - Minecraft Mods Installer
+# MMA
+MMA - Minecraft Mods Assistant
